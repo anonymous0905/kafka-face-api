@@ -1,0 +1,16 @@
+aiokafka==0.10.*
+fastapi
+uvicorn
+httpx
+deepface
+facenet-pytorch
+torch
+opencv-python-headless
+numpy
+Pillow
+scipy
+geopy
+mediapipe
+tf-keras
+insightface
+onnxruntime
